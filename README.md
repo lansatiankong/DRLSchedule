@@ -17,6 +17,7 @@
 * weak 16(5 Mar to 11 Mar): chapter18
 * weak 17(12 Mar to 18 Mar): chapter19
 
-学习材料 
-https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
-https://github.com/lansatiankong/reinforcement-learning
+学习材料
+* Book Reinforcement Learning: An Introduction[http://incompleteideas.net/sutton/book/the-book-2nd.html]
+* 随书figure代码 https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+* 随书示例代码 https://github.com/lansatiankong/reinforcement-learning
