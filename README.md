@@ -16,3 +16,7 @@
 * weak 15(26 Feb to 4 Mar): chapter17
 * weak 16(5 Mar to 11 Mar): chapter18
 * weak 17(12 Mar to 18 Mar): chapter19
+
+学习材料 
+https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+https://github.com/lansatiankong/reinforcement-learning
