@@ -21,3 +21,6 @@
 * Book Reinforcement Learning: An Introduction[http://incompleteideas.net/sutton/book/the-book-2nd.html]
 * 随书figure代码 https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 * 随书示例代码 https://github.com/lansatiankong/reinforcement-learning
+* 课程http://rll.berkeley.edu/deeprlcoursesp17/
+* 视频课程https://sites.google.com/view/deep-rl-bootcamp/lectures
+* rl相关代码，paper https://github.com/aikorea/awesome-rl
