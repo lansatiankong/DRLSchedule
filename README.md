@@ -24,3 +24,4 @@
 * 课程http://rll.berkeley.edu/deeprlcoursesp17/
 * 视频课程https://sites.google.com/view/deep-rl-bootcamp/lectures
 * rl相关代码，paper https://github.com/aikorea/awesome-rl
+* 1st Edition Solution Manual http://fumblog.um.ac.ir/gallery/839/weatherwax_sutton_solutions_manual.pdf
