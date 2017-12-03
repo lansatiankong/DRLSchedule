@@ -16,7 +16,8 @@
 * weak 15(26 Feb to 4 Mar): chapter17
 * weak 16(5 Mar to 11 Mar): chapter18
 * weak 17(12 Mar to 18 Mar): chapter19
-
+# 完成情况
+* 3 Dec. 程：chapter4.1(page61)
 学习材料
 * Book Reinforcement Learning: An Introduction[http://incompleteideas.net/sutton/book/the-book-2nd.html]
 * 随书figure代码 https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
